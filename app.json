@@ -31,14 +31,14 @@
         "ALIVE_LOGO": {
             "description": "Picture with alive message. Paste an image direct link or do '.setalive' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://ibb.co/yn5ZGTr"
         },
         "ALIVE_MESSAGE": {
             "description": "The message that appears when typing the '.alive' command. If you do not want to change it, keep 'default'.",
             "required": true,
             "value": "default"
         },
-        "AMDI_CHAT": {
+        "SEMO_CHAT": {
             "description": "Full Artificial intelligence(AI) based chat bot feature. Type 'true' to enable and type 'false' to disable.",
             "required": true,
             "value": "false"
@@ -80,7 +80,7 @@
         "CAP": {
             "description": "Caption of media files.",
             "required": true,
-            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Qᵘᵉᵉⁿ ᴬᵐᵈᶦ₂₀₂₁"
+            "value": "SEMO ANⁿDROID WA"
         },
         "DEMOTE_MESSAGE": {
             "description": "The message that appears when typing the '.demote' command. If you do not want to change it, keep 'default'.",
@@ -94,7 +94,7 @@
         },
         "GAN_IMAGE": {
             "description": "No need to change.",
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://ibb.co/yn5ZGTr"
         },
         "HANDLERS": {
             "description": "Enter bot prefix to use commands. (Don't delete ^[ ])",
@@ -166,7 +166,7 @@
         "WELCOME_LOGO": {
             "description": "Picture with welcome message. Paste an image direct link or do '.setwelcome' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/XCfhtfH/301820a4f3c0.jpg"
+            "value": "https://ibb.co/yn5ZGTr"
         },
         "WORK_TYPE": {
             "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
