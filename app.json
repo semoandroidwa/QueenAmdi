@@ -1,5 +1,5 @@
 {
-    "name": "Queen Amdi 3.6.0v",
+    "name": "Semo Android 3.6.0v",
     "description": "SEMO BOT is a chat bot for WhatsApp.❤️",
     "keywords": [
         "SEMO ANDROID",
@@ -10,7 +10,7 @@
         "Black Amda"
     ],
     "website": "https://youtube.com/c/SEMOANDROIDWA",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "logo": "https://ephmedia.giphy.com/0e713a85-5360-44e0-a217-6a55711ea768.gif",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
